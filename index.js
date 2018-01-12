@@ -24,10 +24,8 @@ function dec(n) {
 
 function makeInt(n) {
   parseInt('n', 10)
-  return n
 }
 
 function preserveDecimal(n) {
  parseFloat('2.222', 10)
- return n
 }
